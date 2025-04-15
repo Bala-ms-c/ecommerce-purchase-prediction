@@ -5,12 +5,19 @@ This project is an implementation of a machine learning model to predict custome
 ## Project Structure
 
 ecommerce_purchase_prediction/ 
+
 ├── data/ # Data files 
+
 ├── models/ # Trained model and preprocessor 
+
 ├── src/ # Source code for data processing and model training 
+
 ├── dags/ # Airflow DAGs for automation 
+
 ├── prediction_results.png # Visualized model performance 
+
 ├── requirements.txt # List of required dependencies 
+
 ├── README.md # Project documentation
 
 
