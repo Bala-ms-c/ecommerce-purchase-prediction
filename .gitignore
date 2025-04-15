@@ -1,0 +1,16 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore prediction result images
+*.png
+
+# Ignore model files if they're large (optional)
+*.pkl
+
+# VSCode settings
+.vscode/
